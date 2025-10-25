@@ -36,8 +36,9 @@ First, ensure you have Node.js (v20.9.0 or later recommended) and npm installed.
    npm install
 ```
 
+
+3. **Run the development server:**
 ```bash
-3. **Run the development server:**  
    npm run dev
 ```
 
@@ -45,11 +46,13 @@ Open [http://localhost:3000](https://www.google.com/search?q=http://localhost:30
 
 ## **Prototype Links**
 
-* **Live Demo:** \[https://pramaan-portal-8e19.vercel.app/)]  
-* **Demo Video:** \[Your Loom/YouTube Video Link\]  
-* **GitHub Repository:** \[https://github.com/UthkarshMandloi/pramaan-portal.git]
+* **Live Demo:** \[https://pramaan-portal-8e19.vercel.app\]  
+* **Demo Video:** \[https://youtu.be/DVMZPDtIHOE?si=yYx90ohCaVE86i65\]  
+* **GitHub Repository:** \[https://github.com/UthkarshMandloi/pramaan-portal.git\]
 
 ## **Team**
+Shri Sharma – Frontend & Smart Contracts
+Uthkarsh Mandloi – Blockchain Developer
 
 * Uthkarsh Mandloi – Blockchain Developer  
 * Shri Sharma – Frontend & Smart Contracts
