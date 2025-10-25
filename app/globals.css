@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+@tailwindcss base;
+@tailwindcss components;
+@tailwindcss utilities;
+
+body {
+  /* This applies the beautiful gradient from your PPT to the whole app */
+  @apply bg-gradient-to-br from-purple-50 via-pink-50 to-orange-50;
+}
