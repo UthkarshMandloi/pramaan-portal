@@ -1,36 +1,57 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# **Pramaan Portal**
 
-## Getting Started
+**"While others build marketplaces, we built the AI legal brain to run them."**
 
-First, run the development server:
+Pramaan Portal is a prototype for a next-generation, blockchain-based IP licensing platform built for the "\[Challenge Name\]" Hackathon. It turns every digital asset into an autonomous, self-governing entity capable of managing its own licensing through AI-assisted DAO governance.
 
+This project demonstrates the core concept of the "Living License," where fractional owners (DAO) can vote on new licensing deals, advised by an AI "Legal-Brain" that analyzes proposals for compliance, strategy, and risk.
+
+## **Tech Stack**
+
+* **Framework:** [Next.js](https://nextjs.org/) (App Router)  
+* **Language:** [TypeScript](https://www.typescriptlang.org/)  
+* **Styling:** [Tailwind CSS](https://tailwindcss.com/)  
+* **Blockchain Simulation:** Local state (React Hooks) \- *Smart contracts to be built in Stage 2\.*  
+* **AI Simulation:** Hard-coded analysis data \- *Integration with LLM planned for Stage 2\.*
+
+## **Key Features (Prototype)**
+
+* **Asset Dashboard:** View simulated minted digital assets.  
+* **Asset Detail Page:** See creator SBT info (simulated), fractional ownership (DAO), and current license terms.  
+* **Proposal System:** View incoming license proposals for an asset.  
+* **AI Legal-Brain Analysis:** View a simulated AI analysis of a proposal, covering compliance, strategy, and risk.  
+* **DAO Voting Simulation:** Click to vote on a proposal and see the simulated outcome (license update, fund distribution).
+
+## **Getting Started**
+
+First, ensure you have Node.js (v20.9.0 or later recommended) and npm installed.
+
+1. **Clone the repository:**  
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+   git clone \[Your GitHub Repo URL\]  
+   cd pramaan-portal
+```
+2. **Install dependencies:**  
+```bash
+   npm install
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+```bash
+3. **Run the development server:**  
+   npm run dev
+```
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Open [http://localhost:3000](https://www.google.com/search?q=http://localhost:3000) with your browser to see the result.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## **Prototype Links**
 
-## Learn More
+* **Live Demo:** \[Your Vercel Deployment URL\]  
+* **Demo Video:** \[Your Loom/YouTube Video Link\]  
+* **GitHub Repository:** \[Your GitHub Repo URL\]
 
-To learn more about Next.js, take a look at the following resources:
+## **Team**
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+* Uthkarsh Mandloi – Blockchain Developer  
+* Shri Sharma – Frontend & Smart Contracts
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+*This project was bootstrapped with [create-next-app](https://nextjs.org/docs/app/api-reference/cli/create-next-app).*
