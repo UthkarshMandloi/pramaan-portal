@@ -2,7 +2,7 @@
 
 **"While others build marketplaces, we built the AI legal brain to run them."**
 
-Pramaan Portal is a prototype for a next-generation, blockchain-based IP licensing platform built for the "\[Challenge Name\]" Hackathon. It turns every digital asset into an autonomous, self-governing entity capable of managing its own licensing through AI-assisted DAO governance.
+Pramaan Portal is a prototype for a next-generation, blockchain-based IP licensing platform built for the "Decentralized IP Licensing for Digital Assets" Hackathon. It turns every digital asset into an autonomous, self-governing entity capable of managing its own licensing through AI-assisted DAO governance.
 
 This project demonstrates the core concept of the "Living License," where fractional owners (DAO) can vote on new licensing deals, advised by an AI "Legal-Brain" that analyzes proposals for compliance, strategy, and risk.
 
@@ -28,7 +28,7 @@ First, ensure you have Node.js (v20.9.0 or later recommended) and npm installed.
 
 1. **Clone the repository:**  
 ```bash
-   git clone \[Your GitHub Repo URL\]  
+   git clone https://github.com/UthkarshMandloi/pramaan-portal.git
    cd pramaan-portal
 ```
 2. **Install dependencies:**  
@@ -45,9 +45,9 @@ Open [http://localhost:3000](https://www.google.com/search?q=http://localhost:30
 
 ## **Prototype Links**
 
-* **Live Demo:** \[Your Vercel Deployment URL\]  
+* **Live Demo:** \[https://pramaan-portal-8e19.vercel.app/)]  
 * **Demo Video:** \[Your Loom/YouTube Video Link\]  
-* **GitHub Repository:** \[Your GitHub Repo URL\]
+* **GitHub Repository:** \[https://github.com/UthkarshMandloi/pramaan-portal.git]
 
 ## **Team**
 
